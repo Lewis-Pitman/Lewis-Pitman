@@ -1,2 +1,4 @@
 # Hello, I'm Lewis
-I'm 16 years old and it is my dream to be a software developer. In my spare time I like to work on my own C++ projects, but I'm also learning html, css, php and C# for my college course.
+I'm 16 years old and it is my dream to be a software developer. In my spare time I like to work on my own C++ projects,
+
+Aside from the projects on my profile, I also enjoy game development with Unity and c#, and 3D modelling in Blender.
