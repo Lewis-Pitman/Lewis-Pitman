@@ -6,6 +6,6 @@ I'm 16 years old and it is my dream to be a software developer. In my spare time
 ![TetrisGif](https://github.com/user-attachments/assets/6521093a-1f39-407d-aebf-71b620ed09be)
 
 
-# Snake in terminal:
+# Interactive sign system:
 
-![SnakeGif](https://github.com/user-attachments/assets/62d29a6f-786c-4d73-bba5-96bce34321a6)
+![Github events demo](https://github.com/user-attachments/assets/04bdd5af-7c47-4c93-8222-44af1648bfb7)
