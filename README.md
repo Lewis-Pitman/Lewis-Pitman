@@ -1,5 +1,7 @@
 # Hello, I'm Lewis
-Thank you for stumbling onto my page! I'm 16 years old and it is my dream to be a software developer. In my spare time I like to work on my own C++ and C# projects to learn more about programming. If you are looking at my source code, please note that I am still learning and therefore it may not be as organised as other peoples and quality of code may not be the best, however I'm improving both of these things with each project I undertake. Here are some of my projects:
+Thank you for stumbling onto my page! I'm 17 years old and it is my dream to be a software developer. In my spare time I like to work on my own projects. I mainly write in C# and C++, although I dabble in other languages like Dart, Kotlin and JavaScript from time to time. I'd like to try a large variety of languages and frameworks to find something I want to specialise in.
+
+If you are looking at my source code, please note that I am still learning and therefore it may not be as organised as other peoples and quality of code may not be the best, however I'm improving both of these things with each project I undertake. Here are some of my projects:
 
 # Tetris in terminal:
 
