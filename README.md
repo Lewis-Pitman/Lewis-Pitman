@@ -12,6 +12,6 @@ If you are looking at my source code, please note that I am still learning and t
 
 ![Github events demo](https://github.com/user-attachments/assets/04bdd5af-7c47-4c93-8222-44af1648bfb7)
 
-# Roulette wheel app:
+# Counter app:
 
-![Roulette Demo Gif](https://github.com/user-attachments/assets/ecd082c4-d1c4-436a-bc9b-5bbb6d86bdb2)
+![countergif](https://github.com/user-attachments/assets/dddb2b4f-e093-4e93-b3cf-69892bf04eba)
